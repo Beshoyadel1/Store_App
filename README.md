@@ -4,9 +4,9 @@ An online store demo app built with Flutter: product catalog, categories and pro
 
 ## Features
 
-- Sign-in screen
-- Product catalog organized by category
-- Product details with images, price and description
+- Product catalog organized by category (avatars, cars and more)
+- Product details with image, price and Buy flow
+- Favorites (wishlist hearts)
 
 ## Tech Stack
 
@@ -16,7 +16,7 @@ An online store demo app built with Flutter: product catalog, categories and pro
 ## Screenshots
 
 <p>
-  <img width="260" alt="Login" src="https://github.com/user-attachments/assets/eb11f6d1-1f8a-4e29-a68a-6aa6bea7bbe6" />
+  <img width="260" alt="Store home" src="https://github.com/user-attachments/assets/c50d9609-67d7-45e3-947e-16be28ad43d1" />
   <img width="260" alt="Catalog" src="https://github.com/user-attachments/assets/5217cc93-034e-4adb-b156-af93831c267f" />
   <img width="260" alt="Product details" src="https://github.com/user-attachments/assets/ae54edce-49f3-4a5b-962d-a12039e7ef29" />
 </p>
